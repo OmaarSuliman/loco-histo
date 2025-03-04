@@ -1,0 +1,325 @@
+{
+    "title": "Histology of Bone",
+    "questions": [
+      {
+        "question": "1. Which cell is responsible for bone matrix maintenance?",
+        "options": [
+          "Osteoclast",
+          "Osteogenic",
+          "Osteocyte"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "2. Which bone cell has acidophilic foamy cytoplasm?",
+        "options": [
+          "Osteoclast",
+          "Osteogenic",
+          "Osteocyte"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. What is the main type of collagen in bone matrix?",
+        "options": [
+          "Type I",
+          "Type II",
+          "Type III"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "4. Which cell occupies the cavity called lacuna?",
+        "options": [
+          "Osteoclast",
+          "Osteogenic",
+          "Osteocyte"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "5. Which of the following best describes bundles of periosteal collagen fibers penetrating the bone matrix?",
+        "options": [
+          "Endosteum",
+          "Sharpey's fibers",
+          "Periosteum"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "6. Bone resorption is carried out by:",
+        "options": [
+          "Osteoclast",
+          "Osteogenic",
+          "Osteocyte"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. Bone formation is carried out by:",
+        "options": [
+          "Osteoclast",
+          "Osteogenic",
+          "Osteocyte",
+          "Osteoblast"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "8. The periosteum is fixed to the underlying bone matrix by:",
+        "options": [
+          "Howship's lacuna",
+          "Haversian canal",
+          "Sharpey's fibres"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "9. Endosteum is:",
+        "options": [
+          "Non-vascular membrane lining the bone marrow cavity",
+          "Non-vascular membrane lining the outer surface of bone",
+          "Vascular membrane lining the bone marrow cavity, internal surface",
+          "Vascular membrane lining the outer surface of bone"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "10. Osteoblasts:",
+        "options": [
+          "Originate from blood monocytes",
+          "Are found inside lacunae",
+          "Originate from osteoprogenitor cells"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "11. The site of osteoprogenitor cells is:",
+        "options": [
+          "Periosteum",
+          "Endosteum",
+          "Bone marrow cavity",
+          "All of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "12. The origin of osteoclasts is:",
+        "options": [
+          "Blood monocytes",
+          "Periosteum",
+          "Endosteum",
+          "Bone marrow cavity"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "13. The site of compact bone is:",
+        "options": [
+          "Shaft of long bone",
+          "Outer and inner layer of skull",
+          "Outer covering of cartilage and vertebrae",
+          "All of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "14. Zones of growing bone include:",
+        "options": [
+          "Resting zone",
+          "Proliferation zone",
+          "Hypertrophic zone",
+          "Calcified zone",
+          "All of the above"
+        ],
+        "correct": 4
+      },
+      {
+        "question": "15. The site of spongy bone is:",
+        "options": [
+          "Shaft of long bone",
+          "Outer and inner layer of skull",
+          "Ribs",
+          "Outer covering of cartilage and vertebrae"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "16. In compact bone, Volkmann canals are lined with osteoblasts and contain bone vessels.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "17. The organic matter of bone matrix contains calcium and phosphorus.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "18. Osteoclasts originate between lamellae.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "19. Osteoclasts are responsible for bone formation.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "20. Osteocytes are responsible for the maintenance of bone matrix.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "21. The organic matter of bone matrix contains collagen and proteoglycan.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "22. Osteoclasts originate from blood monocytes.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "23. Osteoclasts have basophilic cytoplasm.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "24. Osteocytes contain many ribosomes and Golgi apparatus.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "25. Osteocytes contain many microtubules.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "26. Alkaline phosphatase enzyme removes calcium.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "27. The periosteum covers the inner surface of bone and the bone marrow cavity.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "28. The endosteum consists of two layers: an outer fibrous layer and an inner osteogenic layer.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "29. The endosteum contains Sharpey's fibers.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "30. The outer covering of cartilage and ribs is compact bone.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "31. Growing bone has four zones.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "32. The proliferation zone is characterized by large chondrocytes with cytoplasm rich in glycogen.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "33. The endosteum consists of a single layer of osteoprogenitor cells.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "34. The center layer of the skull is composed of compact bone.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "35. The shaft of a long bone is composed of compact bone.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "36. The epiphysis is composed of cancellous bone.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "37. The outer circumferential lamellae are located under the endosteum.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct": 1
+      }
+    ]
+  }
+  

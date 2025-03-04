@@ -1,0 +1,131 @@
+{
+    "title": "Histology of Skeletal Muscle",
+    "questions": [
+      {
+        "question": "1. Sarcomere is a part between:",
+        "options": [
+          "2A bands",
+          "2 H bands",
+          "2 Z bands",
+          "2I bands"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "2. The contractile unit consisting of bundles of thick filaments interleaved at either end with those of thin filaments is:",
+        "options": [
+          "Cross bridges",
+          "Sarcomere",
+          "Myofibril",
+          "Z band"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Which of the following is false?",
+        "options": [
+          "Functional unit of muscle is sarcomere",
+          "Actin is a thin filament",
+          "The band in a myofibril is an area of thin filament",
+          "Myosin is a thick filament"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "4. The connective tissue that surrounds individual fibers is:",
+        "options": [
+          "Perimysium",
+          "Endomysium",
+          "Epimysium",
+          "Fascia"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "5. Which of the following is an invagination of the muscle cell's sarcolemma?",
+        "options": [
+          "T tubules",
+          "Sarcoplasmic reticula",
+          "Cisternae",
+          "Microtubules"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "6. Which fiber type composes fast-twitch muscle?",
+        "options": [
+          "Intermediate fibers",
+          "White fibers",
+          "Red fibers",
+          "None of the above",
+          "All of the above"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "7. What is the connective tissue covering of a muscle fascicle?",
+        "options": [
+          "Endomysium",
+          "Perimysium",
+          "Sarcolemma",
+          "Epimysium",
+          "Sarcoplasm"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "8. What are the bundle of longitudinal contractile elements within a muscle cell called?",
+        "options": [
+          "Muscle fibers",
+          "Myofibrils",
+          "Myofilaments",
+          "Myocardium",
+          "Myosin"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "9. What is the outer connective tissue covering of the muscle?",
+        "options": [
+          "Sarcoplasm",
+          "Perimysium",
+          "Endomysium",
+          "Epimysium",
+          "Sarcolemma"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "10. Which fiber type has more myoglobin?",
+        "options": [
+          "White fibers",
+          "None of the above",
+          "Intermediate fibers",
+          "Red fibers",
+          "All of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "11. Which fiber type is seen in skeletal muscle?",
+        "options": [
+          "All of the above",
+          "Red fibers",
+          "Intermediate fibers",
+          "White fibers",
+          "None of the above"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "12. Endomysium is:",
+        "options": [
+          "Surrounds the entire muscle",
+          "Surrounds each muscle fiber",
+          "Surrounds the fascicles (bundles) of a muscle"
+        ],
+        "correct": 1
+      }
+    ]
+  }
+  

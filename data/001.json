@@ -1,0 +1,196 @@
+{
+    "title": "Histology of Cartilage",
+    "questions": [
+      {
+        "question": "1. Perichondrium does not cover:",
+        "options": [
+          "Elastic cartilage",
+          "Hyaline cartilage",
+          "Articular cartilage",
+          "Costal cartilage"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "2. Chondrocytes receive its nutrition by:",
+        "options": [
+          "Canaliculi",
+          "Diffusion",
+          "Volkman’s canals",
+          "Haversian canals"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "3. Yellow elastic cartilage is present in:",
+        "options": [
+          "Nose",
+          "Bronchi",
+          "Costal cartilage",
+          "Ear pinna"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "4. White fibrocartilage is characterized by all the following EXCEPT:",
+        "options": [
+          "It contains bundles of collagen fibers",
+          "It is covered by perichondrium",
+          "Presents in semilunar cartilage of knee",
+          "Its chondrocytes are arranged in rows"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "5. Which of the following is NOT a characteristic for chondroblasts?",
+        "options": [
+          "They are present in groups inside lacuna",
+          "They can divide and differentiate into chondrocytes",
+          "They are present in the inner layer of the perichondrium",
+          "They are responsible for appositional growth of cartilage"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "6. Matrix of hyaline cartilage contains:",
+        "options": [
+          "Type I collagen",
+          "Type III collagen",
+          "Type II collagen",
+          "Type IV collagen"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "7. Chondrocytes:",
+        "options": [
+          "Present in the inner layer of perichondrium",
+          "Branched cells with multiple nuclei",
+          "Arranged in groups called cell nests",
+          "Present in Howship’s lacuna"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "8. Hyaline cartilage is present in all the following sites EXCEPT:",
+        "options": [
+          "Costal cartilage",
+          "Bronchi",
+          "Epiglottis",
+          "Nose"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "9. The inner chondrogenic layer of perichondrium contains:",
+        "options": [
+          "Blood vessels",
+          "Chondrocytes",
+          "Chondroblasts",
+          "Cell nests"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "10. Proteoglycans in hyaline cartilage ground substance are all the following EXCEPT:",
+        "options": [
+          "Chondronectin",
+          "Hyduronic acid",
+          "Keratan sulfate",
+          "Chondroitin sulfate"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "11. Concerning chondrocytes, which one of the following is NOT true?",
+        "options": [
+          "They are present in groups inside lacunae",
+          "They have basophilic cytoplasm",
+          "They are present in the inner layer of the perichondrium",
+          "They secrete cartilage matrix"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "12. The non-sulfated glycosaminoglycan in the matrix of hyaline cartilage is:",
+        "options": [
+          "Acetic acid",
+          "Lactic acid",
+          "Hyaluronic acid",
+          "Uric acid"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "13. Regeneration of the damaged cartilage is slow due to:",
+        "options": [
+          "Presence of chondrocytes inside lacunae",
+          "Presence of collagen fibrils in matrix",
+          "Presence of cell nests",
+          "Presence of no blood vessels in matrix"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "14. The intervertebral disk is formed of:",
+        "options": [
+          "Hyaline cartilage",
+          "Compact bone",
+          "Elastic cartilage",
+          "White fibrocartilage"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "15. Elastic cartilage:",
+        "options": [
+          "Presents in the Eustachian tube",
+          "Possesses no perichondrium",
+          "Its chondrocytes are not in lacunae",
+          "White in fresh state"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "16. The type of cartilage in the intervertebral disc of the spinal column is:",
+        "options": [
+          "Hyaline cartilage",
+          "Elastic cartilage",
+          "White fibrocartilage",
+          "Calcified cartilage"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "17. Cartilage found in the external ear is:",
+        "options": [
+          "Hyaline cartilage",
+          "Elastic cartilage",
+          "White fibrocartilage",
+          "Calcified cartilage"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "18. The type of cartilage that has no perichondrium is:",
+        "options": [
+          "Hyaline cartilage",
+          "Elastic cartilage",
+          "White fibrocartilage",
+          "Costal cartilage"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "19. Cartilage has no:",
+        "options": [
+          "Blood vessels",
+          "Nerves",
+          "Lymphatics",
+          "Both nerves and lymphatics"
+        ],
+        "correct": 3
+      }
+    ]
+  }
+  
